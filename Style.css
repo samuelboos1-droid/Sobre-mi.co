@@ -42,7 +42,7 @@ header nav a:hover {
 }
 
 p {
-    font-size: 28px
+    font-size: 20px
     ;
 }
 
@@ -71,4 +71,5 @@ p {
             height: auto;
             border: 5px solid black;
             margin-left: 20px; 
+
 }
